@@ -7,7 +7,7 @@
 ### Technical Focus
 * **Hardware & Systems:** Custom PCB Design (KiCad), In-Circuit Testing (ICT/ATE), Signal Integrity
 * **Firmware & Embedded:** Embedded C, ARM Architecture, Industrial Automation
-* **Software & Tools:** Node.js, Python, Git & Version Control
+* **Software & Tools:** Node.js, Python, Git & Version Control m
 
 ---
 
