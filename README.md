@@ -1,4 +1,4 @@
-# Pratik Mali
+# Pratik dattatray  Mali
 **Electronics & Embedded Systems Engineer**  
 *Specializing in Automated Test Equipment (ATE), PCB Design, and Hardware Systems.*
 
