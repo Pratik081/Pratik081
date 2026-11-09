@@ -1,6 +1,6 @@
 # Pratik Mali
 **Electronics & Embedded Systems Engineer**  
-*Specializing in Automated Test Equipment (ATE), PCB Design, and Hardware Systems.*
+*Specializing in Automated Test Equipment (ATE), PCB Design, and Hardware Systems.*n
 
 ---
 
